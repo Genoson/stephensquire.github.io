@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e593eba7.chunk.css",
+    "main.js": "/static/js/main.6abb9d9a.chunk.js",
+    "main.js.map": "/static/js/main.6abb9d9a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd367412.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd367412.js.map",
+    "static/js/2.128d2d34.chunk.js": "/static/js/2.128d2d34.chunk.js",
+    "static/js/2.128d2d34.chunk.js.map": "/static/js/2.128d2d34.chunk.js.map",
+    "static/js/3.59ec67f0.chunk.js": "/static/js/3.59ec67f0.chunk.js",
+    "static/js/3.59ec67f0.chunk.js.map": "/static/js/3.59ec67f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e593eba7.chunk.css.map": "/static/css/main.e593eba7.chunk.css.map",
+    "static/js/2.128d2d34.chunk.js.LICENSE.txt": "/static/js/2.128d2d34.chunk.js.LICENSE.txt",
+    "static/media/Design.32c2610a.png": "/static/media/Design.32c2610a.png",
+    "static/media/Home.01773df2.png": "/static/media/Home.01773df2.png",
+    "static/media/Menu.9775e116.png": "/static/media/Menu.9775e116.png",
+    "static/media/Order.a8e0d214.png": "/static/media/Order.a8e0d214.png",
+    "static/media/SS-1.dd48a92d.jpg": "/static/media/SS-1.dd48a92d.jpg",
+    "static/media/Tastelife.584802aa.png": "/static/media/Tastelife.584802aa.png",
+    "static/media/WeatherApp1.cdbf58b8.png": "/static/media/WeatherApp1.cdbf58b8.png",
+    "static/media/WeatherApp2.b046cb73.png": "/static/media/WeatherApp2.b046cb73.png",
+    "static/media/WeatherApp3.16bd743a.png": "/static/media/WeatherApp3.16bd743a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd367412.js",
+    "static/js/2.128d2d34.chunk.js",
+    "static/css/main.e593eba7.chunk.css",
+    "static/js/main.6abb9d9a.chunk.js"
+  ]
+}
